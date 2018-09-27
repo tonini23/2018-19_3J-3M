@@ -11,11 +11,13 @@ Repository di TPSIT delle classi 3J e 3M
 <html>
 	<head>
 		<title>
-			la mia pagina
+			titolo
 		</title>
 	</head>
-	<body>
-		ciao mondo
+	<body> <!-- parent di p-->
+		<p> <!-- children di body-->
+			testo
+		</p>
 	</body>
 </html>
 ```
