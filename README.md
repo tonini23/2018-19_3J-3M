@@ -21,4 +21,6 @@ Repository di TPSIT delle classi 3J e 3M
 	</body>
 </html>
 ```
+- [esempio di utilizzo dell'attributo id in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_id)
+- [esempio di utilizzo dell'attributo class in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_class)
 - [tutorial HTML su freecodecamp](https://www.freecodecamp.org/)
