@@ -24,3 +24,13 @@ Repository di TPSIT delle classi 3J e 3M
 - [esempio di utilizzo dell'attributo id in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_id)
 - [esempio di utilizzo dell'attributo class in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_class)
 - [tutorial HTML su freecodecamp](https://www.freecodecamp.org/)
+
+### Esercizi HTML
+#### Esercizio 1
+Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es1.png).
+Ci sono dei tag non ancora visti su freecodecamp: em, strong, video.
+Usate questo sito per capire come si utilizzano: http://devdocs.io/html/
+Informazioni aggiuntive per risolvere l'esercizio.
+Link immagine: https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg
+Link video: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4
+
