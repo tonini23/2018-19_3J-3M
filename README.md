@@ -36,3 +36,5 @@ Informazioni aggiuntive per risolvere l'esercizio. <br/>
 Link immagine: https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg <br/>
 Link video: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4 <br/>
 
+#### Esercizio 2
+Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es2.png).<br/>
