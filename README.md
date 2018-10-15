@@ -24,7 +24,7 @@ Repository di TPSIT delle classi 3J e 3M
 - [esempio di utilizzo dell'attributo id in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_id)
 - [esempio di utilizzo dell'attributo class in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_class)
 - [tutorial HTML su freecodecamp](https://www.freecodecamp.org/)
-- **[formulario HTML]**(https://github.com/angelogalanti/2018-19_3J-3M/blob/master/freecodecamp%20-%20basic%20HTML%20and%20HTML5.html)
+- [**formulario HTML**](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/freecodecamp%20-%20basic%20HTML%20and%20HTML5.html)
 
 
 ### Esercizi HTML
