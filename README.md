@@ -46,4 +46,4 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 ### Teoria
 - [w3school](https://www.w3schools.com/css/default.asp)
 ### Esercizi
-- [es 1](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.html),  [immagine](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.png)
+- partendo dal [file html](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.html) aggiungere il codice css per far diventare la pagina come l'[immagine](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.png)
