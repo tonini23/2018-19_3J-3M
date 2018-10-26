@@ -29,12 +29,6 @@ Repository di TPSIT delle classi 3J e 3M
 - [tutorial HTML su freecodecamp](https://www.freecodecamp.org/)
 - [**formulario HTML**](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/freecodecamp%20-%20basic%20HTML%20and%20HTML5.html)
 
-## CSS
-### Teoria
-
-### Esercizi
-- [es 1](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.html)
-
 
 ### Esercizi HTML
 #### Esercizio 1
@@ -47,3 +41,9 @@ Link video: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit
 
 #### Esercizio 2
 Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es2.png).<br/>
+
+## CSS
+### Teoria
+- [w3school](https://www.w3schools.com/css/default.asp)
+### Esercizi
+- [es 1](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.html) [immagine](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.png)
