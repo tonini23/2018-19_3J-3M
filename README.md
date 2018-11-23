@@ -51,4 +51,8 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [Image Hover](https://codepen.io/angelogalanti/pen/vQGBwm), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQJbOw)
 - esercizio [Testimonial](https://codepen.io/angelogalanti/pen/aQWqWN), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQRwed)
 - esercizio [Testimonial Card](https://codepen.io/angelogalanti/pen/pQWqWE), qui la [soluzione](https://codepen.io/angelogalanti/pen/NEaeaq)
+- esercizio [Profile Card](https://codepen.io/angelogalanti/pen/EOEJLj), qui la [soluzione](https://codepen.io/angelogalanti/pen/YRaMLV)
+
+
+
 
