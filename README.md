@@ -52,7 +52,7 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [1327](https://codepen.io/angelogalanti/pen/aQWqWN), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQRwed)
 - esercizio [1574](https://codepen.io/angelogalanti/pen/pQWqWE), qui la [soluzione](https://codepen.io/angelogalanti/pen/NEaeaq)
 - esercizio [1559](https://codepen.io/angelogalanti/pen/YRaMLV), qui la [soluzione](https://codepen.io/angelogalanti/pen/EOEJLj)
-- esercizio [1578](https://codepen.io/angelogalanti/pen/jQKRPw), qui la [soluzione](https://codepen.io/angelogalanti/pen/jQKRPw)
+- esercizio [1578](https://codepen.io/angelogalanti/pen/xQzeGm), qui la [soluzione](https://codepen.io/angelogalanti/pen/jQKRPw)
 
 
 
