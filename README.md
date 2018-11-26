@@ -47,11 +47,13 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - [w3school](https://www.w3schools.com/css/default.asp)
 ### Esercizi
 - partendo dal [file html](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.html) aggiungere il codice css per far diventare la pagina come l'[immagine](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.png)
-- esercizio [Testimonial Card](https://codepen.io/angelogalanti/pen/OaVdpZ), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQBbMq)
-- esercizio [Image Hover](https://codepen.io/angelogalanti/pen/vQGBwm), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQJbOw)
-- esercizio [Testimonial](https://codepen.io/angelogalanti/pen/aQWqWN), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQRwed)
-- esercizio [Testimonial Card](https://codepen.io/angelogalanti/pen/pQWqWE), qui la [soluzione](https://codepen.io/angelogalanti/pen/NEaeaq)
-- esercizio [Profile Card](https://codepen.io/angelogalanti/pen/YRaMLV), qui la [soluzione](https://codepen.io/angelogalanti/pen/EOEJLj)
+- esercizio [1390](https://codepen.io/angelogalanti/pen/OaVdpZ), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQBbMq)
+- esercizio [1529](https://codepen.io/angelogalanti/pen/vQGBwm), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQJbOw)
+- esercizio [1327](https://codepen.io/angelogalanti/pen/aQWqWN), qui la [soluzione](https://codepen.io/angelogalanti/pen/pQRwed)
+- esercizio [1574](https://codepen.io/angelogalanti/pen/pQWqWE), qui la [soluzione](https://codepen.io/angelogalanti/pen/NEaeaq)
+- esercizio [1559](https://codepen.io/angelogalanti/pen/YRaMLV), qui la [soluzione](https://codepen.io/angelogalanti/pen/EOEJLj)
+- esercizio [1578](https://codepen.io/angelogalanti/pen/jQKRPw), qui la [soluzione](https://codepen.io/angelogalanti/pen/jQKRPw)
+
 
 
 
