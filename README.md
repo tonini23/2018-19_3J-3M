@@ -55,7 +55,7 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [1578](https://codepen.io/angelogalanti/pen/xQzeGm), qui la [soluzione](https://codepen.io/angelogalanti/pen/jQKRPw)
 - esercizio [1338](https://codepen.io/angelogalanti/pen/aQQmVE), qui la [soluzione](https://codepen.io/angelogalanti/pen/JeeRKO)
 - esercizio [1560](https://codepen.io/angelogalanti/pen/BGbOMq), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQPzbp)
-- esercizio [1519](https://codepen.io/angelogalanti/pen/mQozPG), qui la [soluzione](https://codepen.io/angelogalanti/pen/wQOYGZ)
+- esercizio [1519](https://codepen.io/angelogalanti/pen/wQOYGZ), qui la [soluzione](https://codepen.io/angelogalanti/pen/mQozPG)
 
 <!-- verifica
 https://www.littlesnippets.net/snip1492
