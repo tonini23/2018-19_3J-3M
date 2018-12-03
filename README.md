@@ -54,8 +54,75 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [1559](https://codepen.io/angelogalanti/pen/YRaMLV), qui la [soluzione](https://codepen.io/angelogalanti/pen/EOEJLj)
 - esercizio [1578](https://codepen.io/angelogalanti/pen/xQzeGm), qui la [soluzione](https://codepen.io/angelogalanti/pen/jQKRPw)
 - esercizio [1338](https://codepen.io/angelogalanti/pen/aQQmVE), qui la [soluzione](https://codepen.io/angelogalanti/pen/JeeRKO)
-- esercizio [1360](https://codepen.io/angelogalanti/pen/BGbOMq), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQPzbp)
+- esercizio [1560](https://codepen.io/angelogalanti/pen/BGbOMq), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQPzbp)
+- esercizio [1519](https://codepen.io/angelogalanti/pen/mQozPG), qui la [soluzione](https://codepen.io/angelogalanti/pen/wQOYGZ)
 
+<!-- verifica
+https://www.littlesnippets.net/snip1492
+
+CSS di partenza
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400);
+.snip1492 {
+  font-family: 'Oswald', Arial, sans-serif;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.snip1492 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: padding-box;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.snip1492 img {
+}
+
+.snip1492 figcaption {
+}
+
+.snip1492 h3,
+.snip1492 p {
+}
+
+.snip1492 h3 {
+}
+
+.snip1492 p {
+}
+
+.snip1492 .price {
+}
+
+.snip1492 .price s {
+}
+
+.snip1492 i {
+  -webkit-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+}
+
+.snip1492 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.snip1492:hover i,
+.snip1492.hover i,
+.snip1492:hover img,
+.snip1492.hover img {
+}
+
+.snip1492:hover i,
+.snip1492.hover i {
+  -webkit-transform: translate(-50%, 5px);
+  transform: translate(-50%, 5px);
+}
+-->
 
 
 
