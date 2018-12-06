@@ -45,6 +45,7 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 ## CSS
 ### Teoria
 - [w3school](https://www.w3schools.com/css/default.asp)
+- [css position absolute](https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd)
 ### Esercizi
 - partendo dal [file html](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.html) aggiungere il codice css per far diventare la pagina come l'[immagine](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/escss1.png)
 - esercizio [1390](https://codepen.io/angelogalanti/pen/OaVdpZ), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQBbMq)
