@@ -60,5 +60,6 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - **soluzione della verifica** [1492](https://codepen.io/angelogalanti/pen/KbPwYX)
 - esercizio [1447](https://codepen.io/angelogalanti/pen/GPRVqX), qui la [soluzione](https://codepen.io/angelogalanti/pen/oJNKLo)
 - esercizio [1192](https://codepen.io/angelogalanti/pen/NeGeNM), qui la [soluzione](https://codepen.io/angelogalanti/pen/maeaPm)
+- esercizio [1376](https://codepen.io/angelogalanti/pen/pqgBOq)
 
 
