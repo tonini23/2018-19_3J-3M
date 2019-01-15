@@ -62,4 +62,8 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [1192](https://codepen.io/angelogalanti/pen/NeGeNM), qui la [soluzione](https://codepen.io/angelogalanti/pen/maeaPm)
 - esercizio [1376](https://codepen.io/angelogalanti/pen/pqgBOq), qui la [soluzione](https://codepen.io/angelogalanti/pen/roxbEN)
 
+## Rappresentazione delle informazioni
+### Transistor
+- [Transistors - The Invention That Changed The World](https://www.youtube.com/watch?v=OwS9aTE2Go4)
+- [Making logic gates from transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI)
 
